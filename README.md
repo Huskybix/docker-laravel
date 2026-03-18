@@ -1,0 +1,2 @@
+- Built in Laravel with Tailwind 4 and Vite
+- Utilizes Docker for containerised development
